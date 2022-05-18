@@ -7,4 +7,6 @@ https://arxiv.org/abs/2205.01034
 
 Note: If doesn't work for your problem/test case don't blame me.
 
+
+Note 2:  don't use it without understanding and curse me. If you don't like my work please use WENO or something else.  
 Sainath
